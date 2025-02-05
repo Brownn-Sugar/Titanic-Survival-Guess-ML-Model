@@ -1,1 +1,1 @@
-# Titanic-Survival-Guess-ML-Model
+# Titanic-Survival-Guess-Model
